@@ -64,7 +64,7 @@ Built as part of the **IBM Watson Applied AI course on Coursera**
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Aryan Mahindroo**  
 [linkedin.com/in/aryan-mahindroo-1ba085295](https://www.linkedin.com/in/aryan-mahindroo-1ba085295)
