@@ -52,13 +52,13 @@ User: "Where do you deliver?"
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 The chatbot was embedded into a live website hosted by Wordpress using Watson's web chat integration. After building and testing the dialog flow in Watson Assistant, it was deployed onto the site for further debugging and real tests
 
 ---
 
-## 📚 Course
+## Course
 
 Built as part of the **IBM Watson Applied AI course on Coursera**
 
